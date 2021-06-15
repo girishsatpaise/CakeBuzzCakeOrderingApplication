@@ -1,19 +1,21 @@
 # CakeBuzzCakeOrderingApplication
  
-CAKE ORDERING ONLINE APPLICATION
+**CAKE ORDERING ONLINE APPLICATION**
+
 This project deals with developing an android application for providing the online platform to order cake. The platform used is Android Studio which is the official IDE for android application development. Along with the software development kit (SDK) which has a bunch of libraries, java is used for the back-end logic in application development. 
 The main goal of developing Online Cake Ordering android application is to change way of bakery business. Customers who is free they can visit bakery directly and they can order their favorite cake. But customers who has busy in his work will not get time to visit his favorite bakery. This project allows customer to order cake through online and ordered cakes will be delivered to customers place.
 
 Cake ordering android application will help small scale bakery business owner to give online cake ordering facility to their customers. This will also reduce the purchasing time for customers. This application will not only improve customers experience but also eases the workload on the employee of the cake shop. This application will not only improve customers experience but also eases the workload on the employee of the cake shop.
 
-Hardware Requirement
+
+**Hardware Requirement:**
 1. Windows 7 or above
 2. Memory of 8 GB RAM 
 3. Monitor resolution of 1024×768 or higher 
 4. 1GB (or more) available hard disk space 
 5. Android mobile device 
 
-Software Requirement
+**Software Requirement:**
 1. Android Studio: Version 3.4.1 or above
 2. Java Development Kit (JDK) 
 3. SQLite: Database 
@@ -28,7 +30,8 @@ Step 5: After selecting user needs to add the product in the cart.
 Step 6: User needs to fill the details for delivery purpose.
 Step 7: By selecting the convenient payment method use need to make the payment and then the order is placed.
 
-REFERENCES
+
+**REFERENCES:**
 
 [1]	Ashok Panigrahi, Abhijit Saha, Aditya Shrinet, Mehul Nauityal and Vidur Gaur, “A case study on Zomato – The online Foodking of India”, Article in Journal of Management Research and Analysis, April 2020.
 
